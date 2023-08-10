@@ -14,7 +14,7 @@ ul,ol{
 }
 
 body{
-    background: #bfbfbf url('/img/background.jpg') repeat-x;
+    background: #bfbfbf url('../img/background.jpg') repeat-x;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -53,7 +53,7 @@ header h1{
     width: 140px;
     height: 500px;
     cursor: pointer;
-    background: url('/img/bw-image.jpg') no-repeat;
+    background: url('../img/bw-image.jpg') no-repeat;
     opacity: 0,7;
     position: absolute;
     left: 0px;
@@ -63,7 +63,7 @@ header h1{
     width: 140px;
     height: 500px;
     cursor: pointer;
-    background: url('/img/color-image.jpg') no-repeat;
+    background: url('../img/color-image.jpg') no-repeat;
     position: absolute;
     left: 140px;
 }
